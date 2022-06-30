@@ -17,5 +17,20 @@
 
 <h1 align = "center">
 Hello Programmers
-<img src = "https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height = "50" width = "50">
 </h1>
+
+---
+<div id = "banner" align = "center">
+  <img src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" height = "200" width = "500">
+</div>
+
+
+---
+
+👨‍💻 About Me :
+<p>I am a student of BCA <img src = "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width = "20" height = "20"> and I love programming.<img src = "https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width = "20" height = "20">
+  <ul>
+    <li>In my free time I like to learn about the other programming languages.<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "20" height = "20"></li>
+    <li>I also like to play video games.<img src = "https://media.giphy.com/media/3oEjHYlwvUK5p9AIbm/giphy.gif" width = "20" height = "20"></li>
+    <li>To contact me the links of my Facebook and Twitter are above.<img src = "https://media.giphy.com/media/lReVblhSRtxXtfK81w/giphy.gif" height = "30" width = "30"></li>
+  </ul>

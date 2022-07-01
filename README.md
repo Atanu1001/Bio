@@ -24,7 +24,6 @@ Hello Programmers
   <img src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" height = "200" width = "500">
 </div>
 
-
 ---
 
 👨‍💻 About Me :
@@ -35,11 +34,11 @@ Hello Programmers
     <li>To contact me the links of my Facebook and Twitter are above.<img src = "https://media.giphy.com/media/lReVblhSRtxXtfK81w/giphy.gif" height = "30" width = "30"></li>
   </ul>
   
-  ---
-  🛠️ Languages and Tools:
-  <br>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height = 20>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = 20>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height = 20>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = 20>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height = 20>
+---
+🛠️ Languages and Tools:
+<br>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height = 20>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = 20>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height = 20>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = 20>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height = 20>
